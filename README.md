@@ -1,4 +1,24 @@
-### Hi there 👋
+### Hello World 👋
+
+Grasp CS
+- Tales for learning.
+
+Grasp CS, as the name suggest a website to help you Grasp the concepts of Computer Science and especially Programming.
+
+A journey has just started and a lot more is coming.
+
+We'll be providing the source codes in our tutorial as open source code here.
+
+- 💬 Ask us about C, C++, Java, JavaScript
+- 📫 How to reach me: info@graspcs.com
+- Social Media
+- [Twitter][1]
+- [Facebook][2]
+
+[1]:https://twitter.com/GraspCS
+[2]:https://www.facebook.com/GraspCS/
+
+Stay Tuned.
 
 <!--
 **GraspCS/GraspCS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
