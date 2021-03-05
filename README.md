@@ -11,9 +11,11 @@ We'll be providing the source codes in our tutorial as open source code here.
 
 - 💬 Ask us about C, C++, Java, JavaScript
 - 📫 How to reach me: info@graspcs.com
-- Social Media
+- 😄 Social Media
 - [Twitter][1]
 - [Facebook][2]
+
+Be in touch there as well.
 
 [1]:https://twitter.com/GraspCS
 [2]:https://www.facebook.com/GraspCS/
