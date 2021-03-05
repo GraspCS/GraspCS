@@ -10,17 +10,17 @@ A journey has just started and a lot more is coming.
 We'll be providing the source codes in our tutorial as open source code here.
 
 - 💬 Ask us about C, C++, Java, JavaScript
-- ⚡ [www.graspcs.com][0]
+- ⚡ Read our articles here [www.graspcs.com][1]
 - 📫 How to reach me: info@graspcs.com
 - 😄 Social Media
-- [Twitter][1]
-- [Facebook][2]
+- [Twitter][2]
+- [Facebook][3]
 
 Be in touch there as well.
 
-[0]:https://www.graspcs.com
-[1]:https://twitter.com/GraspCS
-[2]:https://www.facebook.com/GraspCS/
+[1]:https://www.graspcs.com
+[2]:https://twitter.com/GraspCS
+[3]:https://www.facebook.com/GraspCS/
 
 Stay Tuned.
 
